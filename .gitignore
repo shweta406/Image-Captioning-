@@ -1,0 +1,22 @@
+# Training dataset (too large for GitHub)
+Images/
+
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp uploaded image from Streamlit
+uploaded_image.jpg
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
